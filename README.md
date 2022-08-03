@@ -32,15 +32,15 @@
 
 ࿇ pip2 install mechanize 
 
-࿇ rm -rf Hide-Me-Talhavai
+࿇ rm -rf bd-file
 
 ࿇ git clone https://github.com/suman6382864/bd-file.git
 
 ࿇ cd bd-file
 
-࿇ python 
+࿇ python shanto.py
 
 
 
-࿇ Join my WhatsApp group : https://chat.whatsapp.com/Bherp2QiChNH5rffkuzQpc
+࿇ Join my WhatsApp group : https://chat.whatsapp.com/Bherp2QiChNH5rff
 
